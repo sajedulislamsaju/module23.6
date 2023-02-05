@@ -6,5 +6,7 @@ while ( rostGiven < 7 ){
     console.log( "amake rost den plase")
     console.log( rostGiven)
     rostGiven++;
-    
+
 }
+
+// this is Done ..
